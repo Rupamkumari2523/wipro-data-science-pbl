@@ -11,4 +11,4 @@ This repository contains my solutions, assignments, mini projects, and practice 
 
 ## Note
 
-This repository is maintained for learning, practice, and portfolio purposes. New assignments and projects will be added as the course progresses.
+This repository is maintained for learning and practice purposes.
